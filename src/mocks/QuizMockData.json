@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "ваш пол:",
+      "answers": ["Мужчина", "Женщина"],
+      "correctAnswer": "Мужчина"
+    },
+    {
+          "id": 2,
+          "type": "multiple-choice",
+          "question": "ваш пол:",
+          "answers": ["Мужчина", "Женщина"],
+          "correctAnswer": "Мужчина"
+    },
+    {
+      "id": 2,
+      "type": "grid",
+      "question": "Выбери синий цвет",
+      "gridColors": ["#FF0000", "#0000FF", "#00FF00", "#FFFF00", "#FF00FF", "#00FFFF", "#000000", "#FFFFFF", "#808080"],
+      "correctAnswer": "#0000FF"
+    }
+]
